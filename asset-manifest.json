@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/angielski/static/css/main.6cd3b0b8.chunk.css",
-    "main.js": "/angielski/static/js/main.d6e06247.chunk.js",
-    "main.js.map": "/angielski/static/js/main.d6e06247.chunk.js.map",
+    "main.js": "/angielski/static/js/main.ff60b0cc.chunk.js",
+    "main.js.map": "/angielski/static/js/main.ff60b0cc.chunk.js.map",
     "runtime-main.js": "/angielski/static/js/runtime-main.8dedba12.js",
     "runtime-main.js.map": "/angielski/static/js/runtime-main.8dedba12.js.map",
     "static/js/2.5169edc2.chunk.js": "/angielski/static/js/2.5169edc2.chunk.js",
     "static/js/2.5169edc2.chunk.js.map": "/angielski/static/js/2.5169edc2.chunk.js.map",
     "index.html": "/angielski/index.html",
-    "precache-manifest.d3992d968ef4cac83e0904d7e3b44eda.js": "/angielski/precache-manifest.d3992d968ef4cac83e0904d7e3b44eda.js",
+    "precache-manifest.282832dd0be23e6bd4de188a9159a202.js": "/angielski/precache-manifest.282832dd0be23e6bd4de188a9159a202.js",
     "service-worker.js": "/angielski/service-worker.js",
     "static/css/main.6cd3b0b8.chunk.css.map": "/angielski/static/css/main.6cd3b0b8.chunk.css.map",
     "static/js/2.5169edc2.chunk.js.LICENSE.txt": "/angielski/static/js/2.5169edc2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8dedba12.js",
     "static/js/2.5169edc2.chunk.js",
     "static/css/main.6cd3b0b8.chunk.css",
-    "static/js/main.d6e06247.chunk.js"
+    "static/js/main.ff60b0cc.chunk.js"
   ]
 }
